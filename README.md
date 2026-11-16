@@ -1,5 +1,3 @@
-# # Faik Yılmaz
-
 Founder & Product Engineer at [Mindlee](https://mindlee.ai).
 
 I build thoughtful mobile and web products, working across product design,
