@@ -1,23 +1,39 @@
-Founder & Product Engineer at [Mindlee](https://mindlee.ai).
+<div align="center">
 
-I build thoughtful mobile and web products, working across product design,
-engineering, and delivery.
+# Faik Yılmaz
 
-## Currently building
+**Founder & Product Engineer at [Mindlee](https://mindlee.ai)**
 
-### Mindlee / AURA
+I turn early ideas into thoughtful mobile and web products — from the first
+product decision to the code that ships.
 
-An emotional awareness product designed to help people better understand their
-inner world through reflection and everyday practice.
+[mindlee.ai](https://mindlee.ai) · Istanbul, Türkiye
 
-### mutlumesaj
+</div>
 
-A mobile, web, and admin product experience built for meaningful connection.
+## Building now
+
+| Product | Focus | Built with |
+| --- | --- | --- |
+| **Mindlee / AURA** | Emotional awareness and everyday reflection | Flutter · Python |
+| **Mutlumesaj** | Meaningful connection across mobile, web, and admin | Flutter · Next.js · Go |
+
+## How I work
+
+I care about the details that make a product feel considered: a clear problem,
+a calm interface, and engineering that holds up after launch.
+
+My work sits between product strategy, design, and implementation. I enjoy
+making the difficult parts feel simple for the person using the product.
 
 ## Technology
 
-Flutter · Next.js · Go · Python
+`Flutter` · `Next.js` · `Go` · `Python`
 
-## Find me
+---
 
-- [mindlee.ai](https://mindlee.ai)
+<div align="center">
+
+Building from Istanbul for people everywhere.
+
+</div>
